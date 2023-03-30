@@ -1,0 +1,151 @@
+.nav-link {
+    color: #f1f1f1;    
+}
+
+#info{
+    background-color: #cccc;
+}
+
+.perfil{
+    object-fit: cover;
+    width: 250px;
+    height: 300px;
+}
+
+.perfil{
+    border: solid;
+    border: thick double #cccc;
+}
+
+.nombre{
+    background-color: #595959;
+    color: white;
+}
+
+.nombre{
+    width: 950px;
+    height: 100px;
+    align-items: center;
+}
+
+.grado{
+    background-color: #7F7F7F;
+    color: white;
+}
+
+.grado{
+    width: 950px;
+    height: 100px;
+    align-items: center;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.descripcion{
+text-align: justify;
+}
+
+.caja{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.caja p{
+    font-size: large;
+}
+
+.caja{
+    background-image: url('/images/uninter.png');
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: top;
+}
+
+.caja::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    opacity: 0.5;
+}
+
+.caja2{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.caja2 p{
+    font-size: large;
+}
+
+.caja2{
+    background-image: url('/images/uaem.png');
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: top;
+}
+
+.caja2::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    opacity: 0.5;
+  }
+
+#carrusel {
+    background-color: #cccc;
+}
+
+.logo{
+    margin-left: 8px;
+    width: 20px;
+    height: 20px;
+}
+
+.bl{
+    color: white;
+}
+
+.logo-l{
+    margin-left: 8px;
+    width: 80px;
+    height: 35px;
+}
+
+#educacion{
+    background-color: #cccc;
+}
+
+.etiqueta-edu{
+    margin-top: 10px;
+}
+
+.custom-progress {
+    background-color: #595959; 
+}
+
+.bg-info{
+    background-color: #595959; 
+}
+
+.logo2{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+
+.logo3{
+    text-align: center;
+    width: 30x;
+    height: 30px;
+}
